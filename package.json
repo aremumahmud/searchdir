@@ -1,0 +1,16 @@
+ {
+     "name": "searchdir",
+     "version": "1.0.0",
+     "description": "A cli tool to search directories and files for a substring",
+     "scripts": {
+         "test": "echo \"Error: no test specified\" && exit 1"
+     },
+     "author": "mahmud aremu",
+     "license": "ISC",
+     "devDependencies": {
+         "searchdir": "1.0.0"
+     },
+     "bin": {
+         "searchdir": "bin/searchdir.exe"
+     }
+ }
