@@ -7,7 +7,7 @@ The `searchdir` is a simple command-line utility that allows you to search for a
 To install `searchdir` Tool globally, you can use npm:
 
 ```bash
-npm install -g searchdir
+npm install -g search_dir_cli
 ```
 
 ## Usage

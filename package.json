@@ -1,5 +1,5 @@
  {
-     "name": "searchdir",
+     "name": "search_dir_cli",
      "version": "1.0.0",
      "description": "A cli tool to search directories and files for a substring",
      "scripts": {
@@ -12,5 +12,13 @@
      },
      "bin": {
          "searchdir": "bin/searchdir.exe"
-     }
+     },
+     "repository": {
+         "type": "git",
+         "url": "git+https://github.com/aremumahmud/searchdir.git"
+     },
+     "bugs": {
+         "url": "https://github.com/aremumahmud/searchdir/issues"
+     },
+     "homepage": "https://github.com/aremumahmud/searchdir#readme"
  }
